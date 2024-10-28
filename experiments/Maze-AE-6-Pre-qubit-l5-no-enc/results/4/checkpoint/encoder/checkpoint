@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-3217"
+all_model_checkpoint_paths: "encoder-3217"
+all_model_checkpoint_timestamps: 1717957941.5303564
+last_preserved_timestamp: 1717856490.103935

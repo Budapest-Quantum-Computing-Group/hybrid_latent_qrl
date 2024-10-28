@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-2804"
+all_model_checkpoint_paths: "encoder-2804"
+all_model_checkpoint_timestamps: 1716886606.0971985
+last_preserved_timestamp: 1716224220.7531483

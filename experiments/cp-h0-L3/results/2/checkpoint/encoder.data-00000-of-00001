@@ -1,0 +1,17 @@
+ÃÁ JWñ?F²•òÅÕ?E½c	‘u
+@ø
+Ê‰ùæ¿ ´&@åbž¹óÅ@zMrÝù@~Ÿu„Q@>TÖÉ‰²¿áŠ©=¸Â?ªÑ-½
+
+	dense
+root*
++
+layer_with_weights-0
+layer-0*
+
+
+kernel
+bias*
+d^
+VARIABLE_VALUEdense_2/kernel<dense/layer_with_weights-0/kernel/.ATTRIBUTES/VARIABLE_VALUE*
+`Z
+VARIABLE_VALUEdense_2/bias:dense/layer_with_weights-0/bias/.ATTRIBUTES/VARIABLE_VALUE*

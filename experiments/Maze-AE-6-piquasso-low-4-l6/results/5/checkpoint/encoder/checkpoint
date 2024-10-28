@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-1931"
+all_model_checkpoint_paths: "encoder-1931"
+all_model_checkpoint_timestamps: 1716886669.215159
+last_preserved_timestamp: 1716224220.694758

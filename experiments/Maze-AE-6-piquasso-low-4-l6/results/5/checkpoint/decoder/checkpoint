@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-1931"
+all_model_checkpoint_paths: "decoder-1931"
+all_model_checkpoint_timestamps: 1716886669.2462144
+last_preserved_timestamp: 1716224220.695007

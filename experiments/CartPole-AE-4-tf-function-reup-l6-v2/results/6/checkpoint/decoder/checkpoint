@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-246"
+all_model_checkpoint_paths: "decoder-246"
+all_model_checkpoint_timestamps: 1716885902.2864184
+last_preserved_timestamp: 1716506133.0919552

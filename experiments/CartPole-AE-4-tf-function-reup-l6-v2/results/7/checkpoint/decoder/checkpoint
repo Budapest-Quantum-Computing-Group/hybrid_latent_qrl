@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-285"
+all_model_checkpoint_paths: "decoder-285"
+all_model_checkpoint_timestamps: 1716885581.9797506
+last_preserved_timestamp: 1716506132.8770585

@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-3970"
+all_model_checkpoint_paths: "encoder-3970"
+all_model_checkpoint_timestamps: 1717957926.308619
+last_preserved_timestamp: 1717856489.7944973

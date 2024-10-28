@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-3993"
+all_model_checkpoint_paths: "decoder-3993"
+all_model_checkpoint_timestamps: 1717957934.61104
+last_preserved_timestamp: 1717856489.7158237

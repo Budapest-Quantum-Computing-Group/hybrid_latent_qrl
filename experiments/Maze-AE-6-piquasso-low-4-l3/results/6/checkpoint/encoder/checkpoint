@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-768"
+all_model_checkpoint_paths: "encoder-768"
+all_model_checkpoint_timestamps: 1718349867.6498265
+last_preserved_timestamp: 1716204095.2767131

@@ -1,0 +1,7 @@
+gymnasium>=0.29.0,<1.0.0
+opencv-python>=4.9.0.80
+PennyLane==0.35.0
+git+https://github.com/Budapest-Quantum-Computing-Group/piquasso.git@e1720c13b6a3acc3e8d729f348222a0cdd7e2d36#egg=piquasso
+tqdm>=4.66.0
+tyro>=0.7.0
+matplotlib>=3.7.0

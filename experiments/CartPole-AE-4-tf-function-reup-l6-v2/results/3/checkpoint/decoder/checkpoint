@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-267"
+all_model_checkpoint_paths: "decoder-267"
+all_model_checkpoint_timestamps: 1716885617.2495577
+last_preserved_timestamp: 1716506133.063886

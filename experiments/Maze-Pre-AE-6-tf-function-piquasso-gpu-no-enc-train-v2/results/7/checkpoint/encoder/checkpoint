@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-631"
+all_model_checkpoint_paths: "encoder-631"
+all_model_checkpoint_timestamps: 1718350536.4383554
+last_preserved_timestamp: 1717516809.025232

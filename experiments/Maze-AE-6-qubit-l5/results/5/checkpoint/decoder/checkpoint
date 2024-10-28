@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-12474"
+all_model_checkpoint_paths: "decoder-12474"
+all_model_checkpoint_timestamps: 1717957930.8589532
+last_preserved_timestamp: 1717856476.00097

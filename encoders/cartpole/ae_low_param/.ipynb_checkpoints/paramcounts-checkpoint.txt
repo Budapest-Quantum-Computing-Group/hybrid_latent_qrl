@@ -1,0 +1,1 @@
+{'encoder_traiable': 30, 'encoder_non_trainable': 0.0, 'decoder_traiable': 32, 'decoder_non_trainable': 0.0}

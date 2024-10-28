@@ -1,0 +1,15 @@
+§òÁy@Ny³-´@ªê¤ÆÀÛr¨ãv"ÀÇ‚c¸›À"äÆ„÷Œ"À™å:äêÀcõ‰¶!ÀR÷P'%ñ¿åbÂghí?G&fË?'À„Öh×Õ*À¼Ú¦·ş
+
+dense_stack
+root*
++
+layer_with_weights-0
+layer-0*
+
+
+kernel
+bias*
+jd
+VARIABLE_VALUEdense_3/kernelBdense_stack/layer_with_weights-0/kernel/.ATTRIBUTES/VARIABLE_VALUE*
+f`
+VARIABLE_VALUEdense_3/bias@dense_stack/layer_with_weights-0/bias/.ATTRIBUTES/VARIABLE_VALUE*

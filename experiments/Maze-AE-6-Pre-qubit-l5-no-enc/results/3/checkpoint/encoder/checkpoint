@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-3946"
+all_model_checkpoint_paths: "encoder-3946"
+all_model_checkpoint_timestamps: 1717957960.9498255
+last_preserved_timestamp: 1717856489.6139326

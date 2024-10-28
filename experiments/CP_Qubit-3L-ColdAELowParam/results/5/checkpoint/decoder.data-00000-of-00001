@@ -1,0 +1,25 @@
+%®óÀ³@©rŠpT@=#ÁëVÀÅ÷‰ú3ø?ëØ\o 8Ç¿°l“€vÀ–™öO•ä@\Gã@2ªòŠ§÷¿æğRï?š®a£Ã÷¿Æ•í1Áø¿n&ÆmÖ À½¼¾ğ¿Ø÷ìÛ!ÀójÇ,ÀŒX)ŞÆÀ÷ß&D­À¡vÅI¥Óæ¿˜İ˜şÉì@Ï3üĞ¤ÿ?s=(—8ï@èRK¸$ÀPÃZÀ:p5ãá¿G£ö4cì?•Ïl2èÀ@3:;$Àç˜?5±?ıüKÉV¨?Rå6™ó‘Ş¿ˆ] ˜å?Ó¨:Õ
+
+dense_stack
+root*
+R
+layer_with_weights-0
+layer-0
+layer_with_weights-1
+layer-1*
+
+
+kernel
+bias*
+
+
+kernel
+bias*
+jd
+VARIABLE_VALUEdense_5/kernelBdense_stack/layer_with_weights-0/kernel/.ATTRIBUTES/VARIABLE_VALUE*
+f`
+VARIABLE_VALUEdense_5/bias@dense_stack/layer_with_weights-0/bias/.ATTRIBUTES/VARIABLE_VALUE*
+jd
+VARIABLE_VALUEdense_6/kernelBdense_stack/layer_with_weights-1/kernel/.ATTRIBUTES/VARIABLE_VALUE*
+f`
+VARIABLE_VALUEdense_6/bias@dense_stack/layer_with_weights-1/bias/.ATTRIBUTES/VARIABLE_VALUE*

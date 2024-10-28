@@ -1,0 +1,4 @@
+model_checkpoint_path: "critic-20180"
+all_model_checkpoint_paths: "critic-20180"
+all_model_checkpoint_timestamps: 1717573298.0056913
+last_preserved_timestamp: 1717537672.019691

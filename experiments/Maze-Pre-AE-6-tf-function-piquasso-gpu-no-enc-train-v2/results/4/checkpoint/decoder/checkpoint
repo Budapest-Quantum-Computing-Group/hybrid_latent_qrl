@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-559"
+all_model_checkpoint_paths: "decoder-559"
+all_model_checkpoint_timestamps: 1718350156.7682316
+last_preserved_timestamp: 1717516809.0202615

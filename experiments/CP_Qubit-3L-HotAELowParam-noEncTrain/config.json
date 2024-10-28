@@ -1,0 +1,80 @@
+{
+    "env_name": "CartPole-v1",
+    "env_kwargs": {},
+    "env_wrappers": [],
+    "env_workers": 2,
+    "use_latent_space_critic": false,
+    "use_latent_space_policy": true,
+    "train_enc_critic": false,
+    "train_enc_policy": false,
+    "train_ae_critic": false,
+    "train_ae_policy": false,
+    "variational_ae": false,
+    "ae_coeff_critic": 0.99,
+    "ae_coeff_policy": 0.99,
+    "beta_vae": 0.02,
+    "beta_scheduler_name": null,
+    "beta_scheduler_kwargs": null,
+    "pretrained_encoder": "../../encoders/cartpole/ae_low_param/checkpoint/best_encoder",
+    "pretrained_decoder": "../../encoders/cartpole/ae_low_param/checkpoint/best_decoder",
+    "encoder_classname": "DenseEncoder",
+    "encoder_kwargs": {
+        "hidden_layers": [
+            4
+        ],
+        "input_dim": 4,
+        "latent_dim": 2,
+        "activation": "sigmoid"
+    },
+    "decoder_classname": "DenseDecoder",
+    "decoder_kwargs": {
+        "hidden_layers": [
+            4
+        ],
+        "output_dim": 4,
+        "latent_dim": 2,
+        "activation": "sigmoid"
+    },
+    "policy_name": "BasicQNNPolicy",
+    "policy_kwargs": {
+        "n_layers": 3,
+        "core_layer": "strong",
+        "data_transform": "identity",
+        "feature_encoding": "angle",
+        "measurement": "expval",
+        "measurement_wires" : [0,1],
+        "use_data_reuploading": true,
+        "nwires": 2
+    },
+    "critic_name": "DenseCritic",
+    "critic_kwargs": {
+        "obs_size": 4,
+        "hidden_sizes": [
+            128,
+            64,
+            32
+        ],
+        "activation": "relu"
+    },
+    "critic_optimizer_name": "Adam",
+    "critic_lr": 0.0002,
+    "critic_lr_scheduler_name": null,
+    "critic_lr_scheduler_kwargs": null,
+    "policy_optimizer_name": "Adam",
+    "policy_lr": 0.0002,
+    "policy_lr_scheduler_name": null,
+    "policy_lr_scheduler_kwargs": null,
+    "profile": false,
+    "epsilon_clip": 0.2,
+    "entropy_coeff": 0.001,
+    "gae_lambda": 0.95,
+    "discount_factor": 0.99,
+    "critic_loss_clipping": 0.2,
+    "normalize_gae": true,
+    "episodes": 10000000,
+    "training_epochs": 6,
+    "training_minibatch": 32,
+    "replay_batch": 250,
+    "max_episode_len": 200,
+    "save_freq": 100
+}

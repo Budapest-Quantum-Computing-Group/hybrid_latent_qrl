@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-9815"
+all_model_checkpoint_paths: "decoder-9815"
+all_model_checkpoint_timestamps: 1717957914.774297
+last_preserved_timestamp: 1717856475.9056706

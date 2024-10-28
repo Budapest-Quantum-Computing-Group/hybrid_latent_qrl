@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-2499"
+all_model_checkpoint_paths: "decoder-2499"
+all_model_checkpoint_timestamps: 1718221077.462515
+last_preserved_timestamp: 1717517194.707086

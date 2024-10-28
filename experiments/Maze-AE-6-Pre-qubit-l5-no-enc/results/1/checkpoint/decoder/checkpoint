@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-3729"
+all_model_checkpoint_paths: "decoder-3729"
+all_model_checkpoint_timestamps: 1717957958.572174
+last_preserved_timestamp: 1717856485.187455

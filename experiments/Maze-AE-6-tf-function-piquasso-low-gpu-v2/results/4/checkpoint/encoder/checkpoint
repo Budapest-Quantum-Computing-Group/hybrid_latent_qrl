@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-2646"
+all_model_checkpoint_paths: "encoder-2646"
+all_model_checkpoint_timestamps: 1718221831.121113
+last_preserved_timestamp: 1717517194.661651

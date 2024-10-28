@@ -1,0 +1,13 @@
+Model: "BasicQNNPolicyLightning"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ keras_layer (KerasLayer)    (None, 6)                 90        
+                                                                 
+ sequential (Sequential)     (None, 6)                 90        
+                                                                 
+=================================================================
+Total params: 90 (720.00 Byte)
+Trainable params: 90 (720.00 Byte)
+Non-trainable params: 0 (0.00 Byte)
+_________________________________________________________________

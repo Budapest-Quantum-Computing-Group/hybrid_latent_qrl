@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-19015"
+all_model_checkpoint_paths: "decoder-19015"
+all_model_checkpoint_timestamps: 1717186327.678565
+last_preserved_timestamp: 1714403536.141372

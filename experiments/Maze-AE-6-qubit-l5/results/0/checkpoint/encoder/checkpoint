@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-10347"
+all_model_checkpoint_paths: "encoder-10347"
+all_model_checkpoint_timestamps: 1717957946.294731
+last_preserved_timestamp: 1717856475.8857632

@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-1128"
+all_model_checkpoint_paths: "encoder-1128"
+all_model_checkpoint_timestamps: 1716886523.629385
+last_preserved_timestamp: 1716224220.86064

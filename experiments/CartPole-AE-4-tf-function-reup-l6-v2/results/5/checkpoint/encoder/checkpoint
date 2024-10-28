@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-247"
+all_model_checkpoint_paths: "encoder-247"
+all_model_checkpoint_timestamps: 1716886408.7722576
+last_preserved_timestamp: 1716506133.2952785

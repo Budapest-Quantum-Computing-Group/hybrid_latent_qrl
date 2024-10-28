@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-2645"
+all_model_checkpoint_paths: "decoder-2645"
+all_model_checkpoint_timestamps: 1716886640.3322036
+last_preserved_timestamp: 1716224220.6611063

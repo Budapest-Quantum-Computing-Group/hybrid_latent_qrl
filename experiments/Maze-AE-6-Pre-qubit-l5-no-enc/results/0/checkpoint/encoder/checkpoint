@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-3904"
+all_model_checkpoint_paths: "encoder-3904"
+all_model_checkpoint_timestamps: 1717957948.575676
+last_preserved_timestamp: 1717856489.683001

@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-286"
+all_model_checkpoint_paths: "encoder-286"
+all_model_checkpoint_timestamps: 1716886399.515239
+last_preserved_timestamp: 1716506133.1996195

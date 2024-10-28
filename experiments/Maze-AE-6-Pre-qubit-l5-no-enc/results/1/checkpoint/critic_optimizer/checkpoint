@@ -1,0 +1,4 @@
+model_checkpoint_path: "critic_optimizer-3729"
+all_model_checkpoint_paths: "critic_optimizer-3729"
+all_model_checkpoint_timestamps: 1717957958.079672
+last_preserved_timestamp: 1717856485.160038

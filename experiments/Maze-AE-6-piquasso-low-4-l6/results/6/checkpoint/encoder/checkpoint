@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-1524"
+all_model_checkpoint_paths: "encoder-1524"
+all_model_checkpoint_timestamps: 1716886676.3771286
+last_preserved_timestamp: 1716224220.3981526

@@ -1,0 +1,4 @@
+model_checkpoint_path: "policy_optimizer-2412"
+all_model_checkpoint_paths: "policy_optimizer-2412"
+all_model_checkpoint_timestamps: 1718351792.2912002
+last_preserved_timestamp: 1716204095.2576602

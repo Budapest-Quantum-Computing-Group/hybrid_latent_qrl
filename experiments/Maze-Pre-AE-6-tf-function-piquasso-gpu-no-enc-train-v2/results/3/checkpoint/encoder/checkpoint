@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-592"
+all_model_checkpoint_paths: "encoder-592"
+all_model_checkpoint_timestamps: 1718351086.4425092
+last_preserved_timestamp: 1717516808.9941812

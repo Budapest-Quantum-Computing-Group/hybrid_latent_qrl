@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-645"
+all_model_checkpoint_paths: "decoder-645"
+all_model_checkpoint_timestamps: 1718351402.6906686
+last_preserved_timestamp: 1717516809.1287842

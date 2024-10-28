@@ -1,0 +1,4 @@
+model_checkpoint_path: "decoder-2524"
+all_model_checkpoint_paths: "decoder-2524"
+all_model_checkpoint_timestamps: 1718350212.4149866
+last_preserved_timestamp: 1716204095.2721934

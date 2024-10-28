@@ -1,0 +1,39 @@
+{
+    "epochs": 20000,
+    "train_size": 0.7,
+    "batch_size": 32,
+    "optimizer": "SGD",
+    "encoder_classname": "Conv2DEncoderGeneric",
+    "encoder_kwargs": {
+        "input_dim_x": 48,
+        "input_dim_y": 48,
+        "latent_dim": 6,
+        "channels": 1,
+        "conv_filters": [2,4,8,8],
+        "hidden_layers": [],
+        "activation": "relu"
+    },
+    "decoder_classname": "Conv2DDecoderGeneric",
+    "decoder_kwargs": {
+        "output_dim_x": 48,
+        "output_dim_y": 48,
+        "latent_dim": 6,
+        "channels": 1,
+	    "interpolation": "bilinear",
+        "conv_filters": [8,8,4,2],
+        "hidden_layers": [],
+        "activation": "relu"
+    },
+    "state_preprocessing": "normalize_and_cast",
+    "beta_scheduler_name": "BetaSchedulerSinusAlternating",
+    "beta_scheduler_kwargs": {
+        "beta_max": 1.0,
+        "period": 200
+    },
+    "lr_scheduler_name": "PiecewiseConstantDecay",
+    "lr_scheduler_kwargs": {
+        "boundaries": [250, 500, 750, 1000, 1250, 1500],
+        "values": [0.05, 0.01, 0.005, 0.001, 0.0005, 0.0001, 0.00005]
+    },
+    "jit_compile": true
+}

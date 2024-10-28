@@ -1,0 +1,4 @@
+model_checkpoint_path: "encoder-240"
+all_model_checkpoint_paths: "encoder-240"
+all_model_checkpoint_timestamps: 1716885368.6548843
+last_preserved_timestamp: 1716506132.972856
